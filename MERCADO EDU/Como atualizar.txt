@@ -1,4 +1,0 @@
-1. Extrair os dados do mercado edu por região do brasil, de acordo com os filtros dos prints
-2. Renomear os arquivos de acordo com cada região (Igual aos arquivos CSV salvos nesta pasta)
-3. Atualizar as conexões de dados do arquivo excel "CargaEnsinoSuperiorGraduacao.xlsx"
-4. Rodar o ETL salvo no projeto do VisualStudio "ISP-MercadoEdu.sln"
