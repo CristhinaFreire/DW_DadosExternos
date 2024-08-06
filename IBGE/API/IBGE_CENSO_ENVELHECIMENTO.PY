@@ -2,7 +2,7 @@ import pyodbc
 import csv
 
 # Configurações do SQL Server
-SERVER = r'srv-bi\homologacao'
+SERVER = XXX
 DATABASE = 'DadosExternos'
 DRIVER = '{ODBC Driver 17 for SQL Server}'
 CONNECTION_STRING = f'DRIVER={DRIVER};SERVER={SERVER};DATABASE={DATABASE};Trusted_Connection=yes;'
