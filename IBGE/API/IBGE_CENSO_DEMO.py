@@ -3,7 +3,7 @@ import csv
 import json
 
 # Configurações do SQL Server
-SERVER = r'srv-bi\homologacao'
+SERVER = 
 DATABASE = 'DadosExternos'
 DRIVER = '{ODBC Driver 17 for SQL Server}'
 CONNECTION_STRING = f'DRIVER={DRIVER};SERVER={SERVER};DATABASE={DATABASE};Trusted_Connection=yes;'
@@ -28,7 +28,6 @@ def connect_to_sql_server(connection_string):
         print(f"Erro SQL: {sqlstate}")
         raise
 
-# Função para criar a tabela no SQL Server
 # Função para criar a tabela no SQL Server
 def criar_tabela_sql_server(connection):
     try:
