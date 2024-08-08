@@ -1,4 +1,4 @@
-		_*Projeto de Banco de Dados Externo*_
+		Projeto de Banco de Dados Externo
 Bem-vindo ao repositório oficial do projeto de criação de um banco de dados externo. Este projeto foi realizado pela área de Analytics com o objetivo de centralizar e disponibilizar dados externos confiáveis e atualizados, integrando diversas fontes de dados, como CAGED, RAIS, IBGE e MERCADOEDU, todas conectadas a tabelas de dimensões geográficas da base do IBGE.
 
 		Visão Geral
