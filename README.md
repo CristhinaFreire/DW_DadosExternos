@@ -10,10 +10,17 @@ Este repositório contém todos os recursos necessários para entender e replica
 Códigos e Scripts de ETL: Scripts utilizados para a Extração, Transformação e Carga (ETL) dos dados provenientes das diferentes fontes externas.
 APIs: Documentação e scripts para a integração com as APIs de CAGED, RAIS, IBGE e MERCADOEDU.
 Dados Brutos: Conjunto de dados brutos coletados das fontes mencionadas.
+
 Documentação: Detalhamento dos processos de ETL, incluindo a modelagem do banco de dados, a integração dos dados e os métodos de validação aplicados.
+
 Ferramentas Utilizadas: Descrição das ferramentas de SGBD (como SQL Server Management Studio) e linguagens de programação (como Python e SQL) empregadas no desenvolvimento do projeto.
+
 Centralizar Dados Externos: Consolidar dados provenientes de fontes confiáveis, garantindo que estejam sempre atualizados e acessíveis para as áreas de decisão.
+
 Facilitar a Análise de Dados: Integrar os dados a ferramentas de visualização, como Power BI, para permitir uma análise clara e objetiva.
+
 Documentar e Replicar Processos: Assegurar que todo o processo de criação, atualização e manutenção do banco de dados seja bem documentado, permitindo a replicação e adaptação do sistema conforme necessário.
-Como Usar
-Para replicar o projeto ou explorar as evidências, siga as instruções fornecidas na documentação deste repositório. Os scripts de ETL e a configuração do banco de dados estão detalhadamente descritos para facilitar a implementação.
+
+		Como Usar
+Para replicar o projeto ou explorar as evidências, siga as instruções fornecidas na documentação deste repositório. 
+Os scripts de ETL e a configuração do banco de dados estão detalhadamente descritos para facilitar a implementação.
